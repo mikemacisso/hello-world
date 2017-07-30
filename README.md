@@ -1,2 +1,4 @@
 # hello-world
-First repository &lt;(o______O )>
+First repository o______O
+
+Testing out GitHub from the user side for the first time.
